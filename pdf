@@ -1,0 +1,2 @@
+#!/bin/sh
+./markdown-resume/bin/md2resume pdf --template readable james.md .
