@@ -1,7 +1,7 @@
 ## James Bunch
-##### Senior Developer / Engineer (Ruby, DevOps, Cloud)
+##### Senior Developer / Engineer (Ruby, Go, DevOps, Cloud)
 
-> ##### San Diego, CA 92037  
+> ##### La Jolla, CA 92037  
 > ##### [fallwith@gmail.com](fallwith@gmail.com)  
 > ##### [github.com/fallwith/resume](https://github.com/fallwith/resume)  
 
@@ -9,39 +9,40 @@
 
 #### Objective
 
-Seeking a senior position within a passionate team that leverages open source and will benefit from my intuition, creativity, and experience in taking software from concept to design to development to testing to deployment to scaling, hardening, and automating.
+Seeking a senior, autonomous software development position within a passionate team to collaboratively drive the adoption of methodologies such as DevOps to improve happiness, confidence, and productivity.
+
+To leverage and contribute to open source. To identify areas for improvement and employ systems engineering to make things more efficient, reliable, or fun. To utilize empathy, intuition, creativity, and critical thinking to take concepts from design to execution and growth beyond. To empower and encourage coworkers and on a larger, industry scale do work that helps others.
 
 ------
 
 #### Skills {#skills}
 
-* Ruby development since 2004
-* DevOps related engineering since 2008 (especially with Amazon Web Services)
-* Team leadership, supervision, and mentoring
-* Independent and team based design, creativity, and problem solving
-* Highly effective communication, documentation, comprehension, and critical thinking
+* Ruby and Go development (and sometimes Python, Rust, and Elixir)
+* DevOps and Systems Engineering
+* Automated virtual maching and container provisioning (Ansible, Packer, and Docker)
+* Cloud architecture, automation, and API interaction (Amazon Web Services)
+* Leadership and mentoring
+* Highly effective communication, documentation, and comprehension
 
 ------
 
 #### Experience
 
 ##### SAP / MeLLmo (aquired by SAP in 2016)
-**DevOps team lead**  
+**Cloud Ops Team Lead**  
 April 2013 - Present  
 *Cardiff-By-The-Sea, CA*  
   
-* Team lead for DevOps for the Roambi product, with the team size ranging at different times from 1 to 10 people split between San Diego and Bangalore.
-* Collaborate with product owners, managers, client and server developers, QA testers, and ops personnel to cooperatively facilitate the implementation of DevOps methodologies throughout all stages of every product's lifecycle.
-* Plan, prioritize, and assign all tasks for the team. Produce training documentation and runbook / flowchart style how-to guides. Leverage a variety of communication channels to interface with our Bangalore and European offices. Handle interviews and new hire onboarding procedures. Take care of all training and mentoring for Ruby, AWS, unix, and SAP specific products and business logic.
-* Pioneered and provide lead development for a container based build and deployment system using Packer, Docker, and Ansible in order to ensure consistent and reliable behavior across all stages of application deployment.
-* Leverage Amazon's Elastic Container Service (ECS) to facilitate the migration off of local physical LAN hardware to private cloud VPC based offerings.
-* Refactored the San Diego team's primary Rails based application to allow for the decoupling of the heavy JavaScript client and Ruby server pieces; freeing the separate client and server dev teams from their lockstep development cycles. Each team can now iterate idependently without blocking each other in order to produce more frequent updates with less error prone deployments.
-* Introduced a new build pipeline that leverages Amazon Machine Images (AMIs) to "prebake" server images with all necessary packages and application code to facilitate rapid rolling deployments of code releases to cloud environments with zero downtime. This took our team from a two hour late night deployment process used once every couple of weeks to being able to deploy at will at any time whenever new functionality was ready.
-* Work on the Ruby team to produce, document, and maintain a series of gems that are leveraged by a slew of microservices.
-* Work closely with the Java, iOS, Android, Windows, and JavaScript dev teams for all internal and cloud based product rollouts and resource provisioning needs. Set up automated build and deployment pipelines using Bamboo and a custom developed Ruby based AWS cloud interface.
-* Produced a flexible cron driven job system for scheduling tasks to be ran using REST endpoints and a plain English language syntax based YAML file (supports phrases such as "every hour" for example). Tasks can be assigned to one or more server type clusters and then executed on either a single node or all nodes within each cluster.
-* Introduced a "provisioner" cloud server type that is controlled via Capistrano over SSH and orchestrates database migrations, rake tasks, and other chores within each VPC environment, allowing for the full advantages of VPC security without sacrificing convenience.
-* Leveraged the AWS Ruby SDK (versions 1, 2, and 3) for comprehensive automation of the company's various cloud services based on EC2 instances, ECS clusters, AMIs, ALBs and ELBs, Lambda functions, ASGs, S3 buckets, ElastiCache, CloudFront, RDS instances, VPC environments and all associated networking and security, Route 53 DNS entries, CloudWatch monitoring, CloudFormation templates, IAM roles, SNS and SQS for messaging, etc.  
+* Cloud Ops team lead for the [Roambi](https://www.sap.com/products/roambi.html) product, overseeing cloud architecture, provisioning and deployments (AWS EC2 and ECS), reliability and performance, monitoring, logging, and all related tooling.
+* Collaborate with product owners, managers, client and server developers, QA testers, and ops personnel to cooperatively facilitate the implementation of DevOps methodologies throughout all stages of each component's lifecycle.
+* Plan, prioritize, and assign all tasks for the team. Produce training documentation and runbook / flowchart style how-to guides. Leverage a variety of communication channels to interface with our Canadian, Indian, and European offices. Handle interviews and new hire onboarding procedures. Take care of all training and mentoring for Ruby, Go, AWS, unix, and SAP specific products and business logic.
+* Pioneered and continue to provide lead development for a container based build and deployment system using Packer, Docker, and Ansible in order to ensure consistent and reliable behavior across all stages of application development and deployment.
+* Develop "serverless" AWS Lambda functions (primarily in Go, but also in Node.js and Python) to both replace a number of more costly traditional apps and develop of new functionality.
+* Collaborate with international SAP teams to collaboratively research and promote the adoption of modern cloud technologies such as Terraform and Kubernetes.
+* Leverage AWS SDKs (Ruby, Go) to automate all cloud services (VPC, CloudFormation, EC2 and ECS, ELB and ALB, Lambda, AutoScaling, S3, ElastiCache, CloudFront, RDS, CloudWatch, IAM, SNS and SQS, etc.)
+* Develop in Ruby and Ruby on Rails alongside the server web application team to produce apps, microservices, gems, and all related tests and documentation.
+* Work closely with the Java, iOS, Android, Windows, and JavaScript dev teams for all internal and cloud based product rollouts and resource provisioning needs.
+* Lead or particiate in a number of internal and external community engagements (from Slack channels to physical meetups) across a variety of subjects (Ruby, Go, Rust, Vim, Emacs, Tmux, etc.)
 
 <br />
 
@@ -93,6 +94,6 @@ September 1997 - June 2006
 
 ### Footer {#footer}
 
-James Bunch -- [fallwith@gmail.com](fallwith@gmail.com) -- San Diego, CA 92037
+James Bunch -- [fallwith@gmail.com](fallwith@gmail.com) -- La Jolla, CA 92037
 
 ------

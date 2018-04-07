@@ -1,0 +1,19 @@
+#!/bin/sh
+
+# when called within then Docker container
+if [ -e /proc/1/cpuset ] && (grep -q docker /proc/1/cpuset); then
+  echo "Generating PDF..."
+  /usr/bin/xvfb-run md2resume pdf --template readable james.md . >/dev/null 2>&1
+
+  echo "Generating HTML..."
+  /usr/bin/md2resume html --template readable james.md . >/dev/null 2>&1
+# when called locally
+else
+  rm -rf /tmp/resume
+  mkdir -p /tmp/resume
+  cp james.md generate /tmp/resume
+  docker run -it -v /tmp/resume:/resume there4/markdown-resume /resume/./generate
+  cp /tmp/resume/james.pdf .
+  cp /tmp/resume/james.html .
+  rm -rf /tmp/resume
+fi

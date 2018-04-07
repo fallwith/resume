@@ -9,5 +9,4 @@ Davis' [Markdown Resume Generator](https://github.com/there4/markdown-resume).
 To regenerate the pdf and html files:  
 
 1. clone this repo
-2. initialize the markdown resume generator submodule
-3. run the `pdf` and `html` scripts
+2. run the `generate` script (requires Docker)
