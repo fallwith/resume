@@ -1,5 +1,4 @@
 ## James Bunch
-##### Senior Developer / Engineer (Ruby, Go, DevOps, Cloud)
 
 > ##### La Jolla, CA 92037  
 > ##### [fallwith@gmail.com](fallwith@gmail.com)  
@@ -9,43 +8,44 @@
 
 #### Objective {#objective}
 
-A senior autonomous software development role within a passionate team that will benefit from my creativity and experience. To stay current with developer technologies and best practices and continue to leverage and contribute to open source software.
+To obtain a senior software development role on a passionate team that will benefit from my creativity and experience. To leverage open source software. To have the opportunity to handle or influence design, architecture, and best practices. To work remotely or within San Diego.
 
 ------
 
 #### Skills {#skills}
 
-* Ruby and Go development
-* DevOps and Systems Engineering
-* Kubernetes and Helm
-* Image provisioning (Ansible, Packer, Docker etc.)
-* Cloud architecture and design, automation, and API interaction (especially with Amazon Web Services)
-* Leadership, training, and mentoring
-* Effective communication, documentation, comprehension, and empathy
+* Ruby and Go
+* Server-side web application / microservices / serverless development
+* AWS cloud based design and architecture, SDK development, automation
+* Infrastructure generation with CloudFormation and Terraform
+* Container orchestration with Kubernetes, Helm, and Docker
+* Image provisioning with Ansible and Packer
+* Leadership, training, and mentoring experience
+* Effective written and verbal communication and documentation
+* Technical scouting, R&D, and POC work
 
 ------
 
 #### Experience {#experience}
 
-##### SAP / MeLLmo (start-up acquired by SAP in 2016)
-**Cloud Ops Team Lead**  
+##### SAP / MeLLmo (MeLLmo was acquired by SAP in 2016)
+**Senior Ruby Developer**  
 April 2013 - Present  
 *Cardiff-By-The-Sea, CA*  
 
-* In 2018 transitioned to reporting to the Vancouver, Canada office, working 100% remote as an SAP America employee.
-* Utilized Terraform, AWS, Kubernetes, and Helm to deploy privately hosted server clusters for the Sentry.io monitoring software.
-* Put together a self-paced training program to cover all aspects of modern server-side web application development. The course covers application development with routing, testing, and linting, leveraging Docker, continuous integration and deployments, Kubernetes locally and in the cloud, etc.
-* Cloud Ops team lead for the [Roambi](https://www.sap.com/products/roambi.html) product, overseeing cloud architecture, server provisioning and deployments (AWS EC2 and ECS), reliability and performance, monitoring, logging, and all related tooling.
-* Collaborate with product owners, managers, client and server developers, QA testers, and ops personnel to cooperatively facilitate the implementation of DevOps methodologies throughout all stages of each component's lifecycle.
-* Plan, prioritize, and assign all tasks for the team. Produce training documentation and runbook / flowchart style how-to guides. Leverage a variety of communication channels to interface with our Canadian, Indian, and German offices. Handle interviews and new hire onboarding procedures. Take care of all training and mentoring for Ruby, Go, AWS, unix, and SAP specific products and business logic.
-* Pioneered and continue to provide lead development for a container based build and deployment system using Packer, Docker, and Ansible in order to ensure consistent and reliable behavior across all stages of application development and deployment.
-* Develop "serverless" AWS Lambda functions (primarily in Go, but also in Node.js and Python) to both replace a number of more costly traditional apps and develop of new functionality.
-* Collaborate with international SAP teams to collaboratively research and promote the adoption of modern cloud technologies such as Terraform and Kubernetes.
-* Leverage AWS SDKs (Ruby, Go) to automate all cloud services (VPC, CloudFormation, EC2, ECS, EKS, ELB and ALB, Lambda, AutoScaling, S3, ElastiCache, CloudFront, RDS, CloudWatch, IAM, SNS and SQS, etc.)
-* Develop in Ruby and Ruby on Rails alongside the server web application team to produce apps, microservices, gems, and all related tests and documentation.
-* Work closely with the Java, iOS, Android, Windows, and JavaScript dev teams for all internal and cloud based product rollouts and resource provisioning needs.
-* Lead or particiate in a number of internal and external community engagements (from Slack channels to physical meetups) across a variety of subjects (Ruby, Go, Rust, Vim, Emacs, etc.)
+* Joined a small startup to help design and launch their multi-tenant SaaS cloud offering
+* Rose to lead the cloud team with members in San Diego and Bangalore
+* Used Ruby and Go to develop a variety of applications and tools
+* Contributed to the company's primary Ruby on Rails based monolith app, microservices, and libraries (Ruby gems)
+* Developed a dynamic template based, CloudFormation backed "infrastructure as code" system prior to existence of Terraform, which was adopted later
+* Developed with AWS SDKs for all AWS cloud offerings used (VPC, CloudFormation, EC2, ECS, EKS, ELB and ALB, Lambda, AutoScaling, S3, ElastiCache, CloudFront, RDS, CloudWatch, IAM, SNS and SQS, etc.)
+* Lead the transition from scheduled, downtime based deployments to frequent rolling deployments
+* Designed and introduced a container based architecture (ECS, then EKS) to replace our classic EC2 instance based one
+* Created a CI/CD pipeline based on Ansible, Packer, Docker, and Ruby
+* Put together a self-paced training program covering web application development, testing, linting, containers, continuous integration and deployment, and Kubernetes
+* Introduced a variety of serverless applications in Go
 
+<br />
 <br />
 
 ##### Sony Computer Entertainment America (SCEA) (PlayStation)   
@@ -53,15 +53,15 @@ April 2013 - Present
 June 2008 - March 2013  
 *Sorrento Valley, CA*  
   
-* Worked within a small skunkworks team exploring cloud solutions (Amazon and OpenStack based) in what would ultimately lead to their widespread adoption throughout the company.
-* Provided first and third party PlayStation video game development teams with server-side online functionality such as leaderboards, profiles, chat, game servers, metrics, trophies, and data syncing.
-* Made significant contributions to all aspects of our various Ruby based applications using Rails, Sinatra, Resque, Rake, and EventMachine.
-* Shared responsibility for all cloud based architecting, provisioning, and deployments against public (AWS) and private (OpenStack) cloud environments and lead the development of Vagrant/VirtualBox based virtualization.
-* Utilized most all of the services offered by AWS to handle significant production traffic (gamers) to the tune of 10,000 concurrent transactions a second per game title.
-* Provisioned software with Chef, Vlad/rake-remote_task, and a series of custom Rake based deployment tools.
-* Led efforts to introduce, improve, and standardize unit testing, client and server environment configurations, and coding guidelines and best practices.
-* Worked with local, remote US based, and international game development teams to integrate client support for our server side offerings, based on utilizing a C++ SDK that made REST based XML service calls. Adapted to each game team’s unique development styles and procedures (sprint planning, project management, etc.)
-* Interfaced directly with project producers, managers, game devs, QA staff, and NOC staff to transition titles from development to QA and out into production.  
+* Worked within a small skunkworks team exploring cloud solutions (Amazon and OpenStack based) in what would ultimately lead to their widespread adoption throughout the company
+* Provided first and third party PlayStation video game development teams with server-side online functionality such as leaderboards, profiles, chat, game servers, metrics, trophies, and data syncing
+* Made significant contributions to all aspects of our various Ruby based applications using Rails, Sinatra, Resque, Rake, and EventMachine
+* Shared responsibility for all cloud based architecture, provisioning, and deployments against public (AWS) and private (OpenStack) cloud environments and lead the development of Vagrant/VirtualBox based development environment virtualization
+* Utilized most all of the services offered by AWS to handle significant production traffic (gamers) to the tune of 10,000 concurrent transactions a second per game title
+* Provisioned software with Chef, Vlad/rake-remote_task, and a series of custom Rake based deployment tools
+* Led efforts to introduce, improve, and standardize unit testing, client and server environment configurations, and coding guidelines and best practices
+* Worked with local, remote US based, and international game development teams to integrate client support for our server side offerings, based on utilizing a C++ SDK that made REST based XML service calls
+* Interfaced directly with project producers, managers, game devs, QA staff, and NOC staff to transition titles from development to QA and out into production
 
 <br />
 
@@ -70,9 +70,9 @@ June 2008 - March 2013
 June 2006 - May 2008  
 *Sorrento Valley, CA*  
   
-* Worked on a small, agile team within a large organization to develop and maintain internal and external facing custom web applications using Ruby, Perl, Python, and an enterprise Java based technology stack (based on Struts, JSF, MyFaces, Tomahawk, OC4J, and Oracle).
-* Assumed lead development responsibilities for QSRP, an in-house code validation system that compares project contributions at check-in time against a database of known exploits, bugs, and viruses. QSRP consisted of roughly 50,000 lines of Python code, a PHP web interface, Berkeley DB, and MySQL.
-* Assumed lead development responsibilities for a highly customized Qualcomm instance of Best Practical’s "Request Tracker" ticketing system. Pioneered and introduced several significant new functionality enhancements and performance improvements. Implemented a built-from-scratch custom packaging and deployment system for distributing the application across multiple load balanced instances. Technologies included object oriented Perl, Mason, mod_perl2, Apache2, Oracle, and Solaris.  
+* Worked on a small, agile team within a large organization to develop and maintain internal and external facing custom web applications using Ruby, Perl, Python, and an enterprise Java based technology stack
+* Assumed lead development responsibilities for QSRP, an in-house code validation system built in Python that compares project contributions at check-in time against a database of known exploits, bugs, and viruses
+* Assumed lead development responsibilities for a highly customized Qualcomm instance of Best Practical’s "Request Tracker" ticketing system built with object oriented Perl
 
 <br />
 
@@ -81,13 +81,13 @@ June 2006 - May 2008
 September 1997 - June 2006  
 *Poway, CA*  
   
-* Developed and introduced a Rails based web application framework for internal intranet use in order to improve upon and consolidate various existing console and web based Perl, Java, Informix, and PHP tools. These tools had previously been deployed in several different formats, each with their own deployment complications. With the move to consolidate these tools with a consistent view layer accessible via a web browser, the deployment, maintenance, and authentication pieces saw great improvements in their simplicity and effectiveness.
-* Assumed lead development for the company’s premier web portal solution, “CREDCOConnect”. CREDCOConnect had a Java servlet based infrastructure that provided clientele with HTTPS based access to CREDCO's products and services. Re-architected the platform to replace its proprietary I/O system with a flexible solution that allowed modular support for all current and future data formats. Worked closely with project managers, business managers, database admins, sysadmins, architects, QA personnel, and other developers to introduce several major new improvements to the platform.  
-* Served as a member of an elite four employee Systems Engineering team comprised of senior developers to produce enterprise development guidelines with regards to application dependencies, security, logging, performance, support requirements, etc.
-* Joined several company projects as chief Systems Engineer to offer suggestions for new development efforts on how to best implement guidelines, and to retroactively enforce the guidelines for existing platforms.
+* Developed and introduced a Ruby on Rails based web application framework for internal intranet use in order to improve upon and consolidate various existing console and web based Perl, Java, Informix, and PHP tools
+* Lead "CREDCOConnect" web portal development with Java servlets
+* Worked closely with several external .NET, J2EE, Perl, Ruby, PHP, C++, and cURL developers to facilitate third party platform integration by developing sample source code, developer guides, and DTD validators
+* Served as a member of an elite four employee Systems Engineering team comprised of senior developers pulled from other teams to produce enterprise development guidelines with regards to application dependencies, security, logging, performance, support requirements, etc.
+* Joined several company projects as chief Systems Engineer to offer suggestions for new development efforts on how to best implement guidelines, and to retroactively enforce the guidelines for existing platforms
 * Produced hundreds of extensible, custom parsers in Perl and Ruby to aggregate and quantify data from various sources including web logs, database tables, XML, source code, unix process output, proprietary industry text and binary formats, etc.
-* Worked closely with several external .NET, J2EE, Perl, Ruby, PHP, C++, and cURL developers to facilitate third party platform integration with the company's web based portals. Developed and maintained sample source code, reviewed and contributed to developer guides, produced DTD validators with extra custom non-DTD based validation (based on business logic), and facilitated client side digital certificate deployments and configuration.
-* Automated several QA, DBA, and Network Operations Center (NOC) based tools (involving FTP, HTTP, SSL, SQL, and/or custom I/O tasks), eliminating the need for manual, after hours on-call support for a variety of internal and customer facing platforms.  
+* Authored several automated QA, DBA, and NOC based tools involving FTP, HTTP, SSL, SQL, and custom I/O tasks
 
 ------
 
