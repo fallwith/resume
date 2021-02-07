@@ -8,30 +8,47 @@
 
 #### Objective {#objective}
 
-To obtain a senior software development role on a passionate team that will benefit from my creativity and experience. To leverage open source software. To have the opportunity to handle or influence design, architecture, and best practices. To work remotely or within San Diego.
+To fulfill a remote senior software development role with tech leadership, mentoring, and design contribution opportunities on a passionate team that will benefit from my creativity and experience. To leverage open source software and development methodologies.
 
 ------
 
 #### Skills {#skills}
 
-* Ruby and Go
+* Ruby, Rust, and Go for development and DevOps
+* Back-end / CLI / API work
 * Server-side web application / microservices / serverless development
-* AWS cloud based design and architecture, SDK development, automation
-* Infrastructure generation with CloudFormation and Terraform
-* Container orchestration with Kubernetes, Helm, and Docker
-* Image provisioning with Ansible and Packer
-* Leadership, training, and mentoring experience
+* Leadership, training, and mentoring
 * Effective written and verbal communication and documentation
-* Technical scouting, R&D, and POC work
+* Architecture design, R&D, and MVP/POC work
 
 ------
 
 #### Experience {#experience}
 
+##### Salesforce / Trailhead  
+Principal Member of Technical Staff  
+January 2019 - Present  
+*Remote*  
+
+* Founded and led an internal tools development team focused on developer happiness
+* Technical lead and product owner, interfacing with project managers, architects, other leads, etc.
+* Designed Ruby CLI and Ruby on Rails web applications
+* Led Trailhead's DevOps Guild
+* Mentored junior and senior devs
+* Showcased, taught, and led open and inner source adoption and contribution efforts
+* Established development best practices (unit testing, PR reviews, Git usage, etc.)
+* Led Ruby training sessions, and Ruby/Rust/Go code exercise comparison sessions
+* Worked closely with Trailhead's QA, performance, infrastructure, and dev teams for comprehensive standardized approaches
+* Automated Trailhead's complex CI/CD process
+* Built an extensible workflow automation system to interface with Salesforce, GitHub, Heroku, ticketing systems, etc.
+* Interviewed full-time developers and interns
+
+<br />
+
 ##### SAP / MeLLmo (MeLLmo was acquired by SAP in 2016)
 **Senior Ruby Developer**  
-April 2013 - Present  
-*Cardiff-By-The-Sea, CA*  
+April 2013 - January 2019  
+*Cardiff-By-The-Sea, CA and then 100% Remote*  
 
 * Joined a small startup to help design and launch their multi-tenant SaaS cloud offering
 * Rose to lead the cloud team with members in San Diego and Bangalore
@@ -45,7 +62,6 @@ April 2013 - Present
 * Put together a self-paced training program covering web application development, testing, linting, containers, continuous integration and deployment, and Kubernetes
 * Introduced a variety of serverless applications in Go
 
-<br />
 <br />
 
 ##### Sony Computer Entertainment America (SCEA) (PlayStation)   
