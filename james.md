@@ -25,9 +25,21 @@ To fulfill a remote senior software development role with tech leadership, mento
 
 #### Experience {#experience}
 
-##### Salesforce / Trailhead  
+#####  New Relic  
+Lead Software Engineer  
+January 2022 - Present  
+*Remote*  
+
+* Member of the Ruby Open Source team
+* Maintain New Relic's open source Ruby agent gem
+* Align with other agent teams and open standards for metrics
+
+
+<br />
+
+##### Salesforce (Trailhead.com)  
 Principal Member of Technical Staff  
-January 2019 - Present  
+January 2019 - December 2021  
 *Remote*  
 
 * Founded and led an internal tools development team focused on developer happiness
@@ -38,7 +50,6 @@ January 2019 - Present
 * Showcased, taught, and led open and inner source adoption and contribution efforts
 * Established development best practices (unit testing, PR reviews, Git usage, etc.)
 * Led Ruby training sessions, and Ruby/Rust/Go code exercise comparison sessions
-* Worked closely with Trailhead's QA, performance, infrastructure, and dev teams for comprehensive standardized approaches
 * Automated Trailhead's complex CI/CD process
 * Built an extensible workflow automation system to interface with Salesforce, GitHub, Heroku, ticketing systems, etc.
 * Interviewed full-time developers and interns
@@ -69,41 +80,19 @@ April 2013 - January 2019
 June 2008 - March 2013  
 *Sorrento Valley, CA*  
   
-* Worked within a small skunkworks team exploring cloud solutions (Amazon and OpenStack based) in what would ultimately lead to their widespread adoption throughout the company
+* Worked on a small skunkworks team exploring AWS and OpenStack cloud solutions
 * Provided first and third party PlayStation video game development teams with server-side online functionality such as leaderboards, profiles, chat, game servers, metrics, trophies, and data syncing
 * Made significant contributions to all aspects of our various Ruby based applications using Rails, Sinatra, Resque, Rake, and EventMachine
 * Shared responsibility for all cloud based architecture, provisioning, and deployments against public (AWS) and private (OpenStack) cloud environments and lead the development of Vagrant/VirtualBox based development environment virtualization
-* Utilized most all of the services offered by AWS to handle significant production traffic (gamers) to the tune of 10,000 concurrent transactions a second per game title
+* Utilized several AWS services to handle significant production traffic (10,000 concurrent requests a second)
 * Provisioned software with Chef, Vlad/rake-remote_task, and a series of custom Rake based deployment tools
-* Led efforts to introduce, improve, and standardize unit testing, client and server environment configurations, and coding guidelines and best practices
-* Worked with local, remote US based, and international game development teams to integrate client support for our server side offerings, based on utilizing a C++ SDK that made REST based XML service calls
-* Interfaced directly with project producers, managers, game devs, QA staff, and NOC staff to transition titles from development to QA and out into production
+* Led efforts to introduce unit testing, client and server environment configuration standardization, and coding guidelines and best practices
+* Worked with local and remote game development teams to integrate our client SDK that made REST calls
+* Interfaced with producers, managers, game devs, QA staff, and NOC staff to usher titles from development to production
 
 <br />
 
-##### Qualcomm  
-**Senior Programmer Analyst**  
-June 2006 - May 2008  
-*Sorrento Valley, CA*  
-  
-* Worked on a small, agile team within a large organization to develop and maintain internal and external facing custom web applications using Ruby, Perl, Python, and an enterprise Java based technology stack
-* Assumed lead development responsibilities for QSRP, an in-house code validation system built in Python that compares project contributions at check-in time against a database of known exploits, bugs, and viruses
-* Assumed lead development responsibilities for a highly customized Qualcomm instance of Best Practical’s "Request Tracker" ticketing system built with object oriented Perl
-
-<br />
-
-##### First American CREDCO  
-**Lead Developer / Systems Engineer**  
-September 1997 - June 2006  
-*Poway, CA*  
-  
-* Developed and introduced a Ruby on Rails based web application framework for internal intranet use in order to improve upon and consolidate various existing console and web based Perl, Java, Informix, and PHP tools
-* Lead "CREDCOConnect" web portal development with Java servlets
-* Worked closely with several external .NET, J2EE, Perl, Ruby, PHP, C++, and cURL developers to facilitate third party platform integration by developing sample source code, developer guides, and DTD validators
-* Served as a member of an elite four employee Systems Engineering team comprised of senior developers pulled from other teams to produce enterprise development guidelines with regards to application dependencies, security, logging, performance, support requirements, etc.
-* Joined several company projects as chief Systems Engineer to offer suggestions for new development efforts on how to best implement guidelines, and to retroactively enforce the guidelines for existing platforms
-* Produced hundreds of extensible, custom parsers in Perl and Ruby to aggregate and quantify data from various sources including web logs, database tables, XML, source code, unix process output, proprietary industry text and binary formats, etc.
-* Authored several automated QA, DBA, and NOC based tools involving FTP, HTTP, SSL, SQL, and custom I/O tasks
+<center>*(earlier work history available upon request)*</center>  
 
 ------
 
