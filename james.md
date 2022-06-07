@@ -8,13 +8,13 @@
 
 #### Objective {#objective}
 
-To fulfill a remote senior software development role with tech leadership, mentoring, and design contribution opportunities on a passionate team that will benefit from my creativity and experience. To leverage open source software and development methodologies.
+To fulfill a remote principal/staff engineer role with rich technical leadership, mentoring, and design opportunities on a passionate team that will benefit from my creativity and experience. To both leverage and contribute to open source software and help guide the adoption and implementation of related community development best practices.
 
 ------
 
 #### Skills {#skills}
 
-* Ruby, Rust, and Go for development and DevOps
+* Ruby programming since 2004 for development and DevOps automation
 * Back-end / CLI / API work
 * Server-side web application / microservices / serverless development
 * Leadership, training, and mentoring
@@ -30,12 +30,13 @@ Lead Software Engineer
 January 2022 - Present  
 *Remote*  
 
-* Member of the Ruby Open Source team
-* Maintain New Relic's open source Ruby agent gem
-* Align with other agent teams and open standards for metrics
-
-
-<br />
+* Develop and maintain New Relic's 2 open source Ruby gems used for metrics and business data reporting
+* Lead a small team of Ruby developers with collaboration best practices aimed at consistency and objectivity
+* Engage with the open source Ruby community through Discord, GitHub PRs and Issues, conferences, etc.
+* Track the development of popular Ruby libraries to ensure their functionality is properly traced
+* Collaborate in various contexts with leadership, project managers, arhitects, and other dev leads
+* Maintain containers and server provisioning tooling for local development and CI/CD
+* Actively participate in technical book club and group coding exercise sessions
 
 ##### Salesforce (Trailhead.com)  
 Principal Member of Technical Staff  
@@ -56,7 +57,7 @@ January 2019 - December 2021
 
 <br />
 
-##### SAP / MeLLmo (MeLLmo was acquired by SAP in 2016)
+##### SAP / MeLLmo (startup MeLLmo was acquired by SAP in 2016)
 **Senior Ruby Developer**  
 April 2013 - January 2019  
 *Cardiff-By-The-Sea, CA and then 100% Remote*  
@@ -81,7 +82,7 @@ June 2008 - March 2013
 *Sorrento Valley, CA*  
   
 * Worked on a small skunkworks team exploring AWS and OpenStack cloud solutions
-* Provided first and third party PlayStation video game development teams with server-side online functionality such as leaderboards, profiles, chat, game servers, metrics, trophies, and data syncing
+* Provided 1st and 3rd party PlayStation video game dev teams with server-side functionality such as leaderboards, profiles, chat, game servers, metrics, trophies, and ghost data
 * Made significant contributions to all aspects of our various Ruby based applications using Rails, Sinatra, Resque, Rake, and EventMachine
 * Shared responsibility for all cloud based architecture, provisioning, and deployments against public (AWS) and private (OpenStack) cloud environments and lead the development of Vagrant/VirtualBox based development environment virtualization
 * Utilized several AWS services to handle significant production traffic (10,000 concurrent requests a second)

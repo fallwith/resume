@@ -1,6 +1,6 @@
 # resume
 
-Choose your desired version of my resume:
+Chooose your desired version of my resume:
 
 * [PDF format](james.pdf)
 * [Markdown format](james.md)

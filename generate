@@ -1,6 +1,3 @@
 #!/bin/sh
 echo "Generating PDF..."
-docker run --rm -it -v ${PWD}:/resume there4/markdown-resume md2resume pdf --template readable james.md .
-# echo "\n\n"
-# echo "Generating HTML..."
-# docker run --rm -it -v ${PWD}:/resume there4/markdown-resume md2resume html --template readable james.md .
+docker run --rm -it -v ${PWD}:/resume there4/markdown-resume md2resume pdf --template unstyled james.md .
