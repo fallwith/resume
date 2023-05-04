@@ -1,23 +1,24 @@
 ## James Bunch
 
-> ##### La Jolla, CA 92037  
-> ##### [fallwith@gmail.com](fallwith@gmail.com)  
-> ##### [github.com/fallwith/resume](https://github.com/fallwith/resume)  
+> ##### La Jolla, CA 92037  | [fallwith@gmail.com](fallwith@gmail.com)  | [github.com/fallwith/resume](https://github.com/fallwith/resume)
 
 ------
 
 #### Objective {#objective}
 
-To fulfill a remote principal/staff engineer role with rich technical leadership, mentoring, and design opportunities on a passionate team that will benefit from my creativity and experience. To both leverage and contribute to open source software and help guide the adoption and implementation of related community development best practices.
+To fulfill a remote principal/staff engineer role for development or DevOps within a nimble organization. To bring my passions for open source and software development as a creative art. To mentor and collaborate to bootstrap projects and teams.
 
 ------
 
 #### Skills {#skills}
 
-* Ruby programming since 2004 for development and DevOps automation
+* Ruby programming, with a focus on pure Ruby / Ruby without Rails
+* Polyglot experience and constant studies (Go, Rust, Nim, Lua, Haskell, Perl, Python, Java, etc.)
 * Back-end / CLI / API work
 * Server-side web application / microservices / serverless development
-* Leadership, training, and mentoring
+* Rich DevOps and systems engineering experience throughout the entire software development lifecycle
+* Leadership, training, and mentoring expertise
+* Bootstrapping of dev teams with best practices and guidelines
 * Effective written and verbal communication and documentation
 * Architecture design, R&D, and MVP/POC work
 
@@ -30,13 +31,13 @@ Lead Software Engineer
 January 2022 - Present  
 *Remote*  
 
-* Develop and maintain New Relic's 2 open source Ruby gems used for metrics and business data reporting
+* Develop and maintain New Relic's various open source Ruby gems used for metrics and business data reporting
 * Lead a small team of Ruby developers with collaboration best practices aimed at consistency and objectivity
 * Engage with the open source Ruby community through Discord, GitHub PRs and Issues, conferences, etc.
 * Track the development of popular Ruby libraries to ensure their functionality is properly traced
-* Collaborate in various contexts with leadership, project managers, arhitects, and other dev leads
-* Maintain containers and server provisioning tooling for local development and CI/CD
-* Actively participate in technical book club and group coding exercise sessions
+* Collaborate in various contexts with leadership, product managers, architects, and other dev leads
+* Maintain containers pipelines and other provisioning tooling for local development and CI/CD
+* Align with other programming language teams by authoring and ratifying specifications
 
 ##### Salesforce (Trailhead.com)  
 Principal Member of Technical Staff  
