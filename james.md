@@ -1,100 +1,122 @@
-## James Bunch
+# James Bunch
 
 > ##### La Jolla, CA 92037  | [fallwith@gmail.com](fallwith@gmail.com)  | [github.com/fallwith/resume](https://github.com/fallwith/resume)
 
 ------
 
-#### Objective {#objective}
+## Objective {#objective}
 
-To fulfill a remote principal/staff engineer role for development or DevOps within a nimble organization. To bring my passions for open source and software development as a creative art. To mentor and collaborate to bootstrap projects and teams.
+To serve as a remote lead/principal engineer working on internal tools development or DevOps automation to drive efficiency, consistency, and developer happiness.
 
 ------
 
-#### Skills {#skills}
+## Skills {#skills}
 
 * Ruby programming, with a focus on pure Ruby / Ruby without Rails
-* Polyglot experience and constant studies (Go, Rust, Nim, Lua, Haskell, Perl, Python, Java, etc.)
-* Back-end / CLI / API work
-* Server-side web application / microservices / serverless development
+* Polyglot experience (Ruby, Go, Rust, JavaScript, Nim, Lua, Haskell, Perl, Python, Java, etc.)
+* Development of CLI, GUI, and web applications as well as APIs and SDKs
 * Rich DevOps and systems engineering experience throughout the entire software development lifecycle
-* Leadership, training, and mentoring expertise
-* Bootstrapping of dev teams with best practices and guidelines
-* Effective written and verbal communication and documentation
-* Architecture design, R&D, and MVP/POC work
+* Dev leadership, training, and mentoring expertise
+* Highly effective communication and documentation skills
 
 ------
 
-#### Experience {#experience}
+## Passions {#passions}
 
-#####  New Relic  
-Lead Software Engineer  
+I am passionate about open source. I love exploring software development as a creative art. I maintain an open mind and always believe that everything that can be dreamed of can be developed given enough time and money. I enjoy mentoring and I enjoy learning.
+
+------
+
+## Experience {#experience}
+
+###  New Relic  
+**Lead Software Engineer**  
 January 2022 - Present  
 *Remote*  
 
-* Develop and maintain New Relic's various open source Ruby gems used for metrics and business data reporting
-* Lead a small team of Ruby developers with collaboration best practices aimed at consistency and objectivity
-* Engage with the open source Ruby community through Discord, GitHub PRs and Issues, conferences, etc.
-* Track the development of popular Ruby libraries to ensure their functionality is properly traced
-* Collaborate in various contexts with leadership, product managers, architects, and other dev leads
-* Maintain containers pipelines and other provisioning tooling for local development and CI/CD
-* Align with other programming language teams by authoring and ratifying specifications
+I lead the dev team responsible for New Relic's open source [Ruby APM agent](https://github.com/newrelic/newrelic-ruby-agent). The agent is distributed as a gem and integrates with customer applications (Rails, Sinatra, Grape, etc.) to provide observability and performance data.
 
-##### Salesforce (Trailhead.com)  
-Principal Member of Technical Staff  
-January 2019 - December 2021  
-*Remote*  
+I established a democratically driven set of development best practices for the dev team aimed at providing consistency and objectivity.
 
-* Founded and led an internal tools development team focused on developer happiness
-* Technical lead and product owner, interfacing with project managers, architects, other leads, etc.
-* Designed Ruby CLI and Ruby on Rails web applications
-* Led Trailhead's DevOps Guild
-* Mentored junior and senior devs
-* Showcased, taught, and led open and inner source adoption and contribution efforts
-* Established development best practices (unit testing, PR reviews, Git usage, etc.)
-* Led Ruby training sessions, and Ruby/Rust/Go code exercise comparison sessions
-* Automated Trailhead's complex CI/CD process
-* Built an extensible workflow automation system to interface with Salesforce, GitHub, Heroku, ticketing systems, etc.
-* Interviewed full-time developers and interns
+I engage with the Ruby community over Discord, GitHub, conferences, etc. to understand their current needs and be proactive in predicting their future needs.
+
+I author internal tools and maintain containers for CI/CD automation, data parsing, and application testing.
+
+I am a very active participant in various contexts involving leadership and engineers to ideate and continually drive customer focused improvements.
 
 <br />
 
-##### SAP / MeLLmo (startup MeLLmo was acquired by SAP in 2016)
+### Salesforce (Trailhead.com)  
+**Principal Member of Technical Staff**  
+January 2019 - December 2021  
+*Remote*  
+
+I founded and lead an internal tools development team focused on developer happiness for around 100 Trailhead engineers. We identified all aspects of the organization's manual CI/CD process and then automated everything with a focus on idempotency.
+
+I designed and developed Ruby CLI and Ruby on Rails web applications while mentoring our devs who were either new to development or Ruby.
+
+I lead Trailhead's DevOps Guild, which played an important role in maintaining Trailhead's organizational independence while also interfacing with Salesforce's broad enterprise offerings.
+
+I drove discussions and ratifications across all engineering teams for development best practices involving collaboration, unit testing, PR reviews, Git usage, etc.
+
+My dev team later interfaced directly with Trailhead's QA and Growth teams to drive automation and engineer happiness in their areas as well.
+
+<br />
+
+### SAP / MeLLmo (startup MeLLmo was acquired by SAP in 2016)
 **Senior Ruby Developer**  
 April 2013 - January 2019  
 *Cardiff-By-The-Sea, CA and then 100% Remote*  
 
-* Joined a small startup to help design and launch their multi-tenant SaaS cloud offering
-* Rose to lead the cloud team with members in San Diego and Bangalore
-* Used Ruby and Go to develop a variety of applications and tools
-* Contributed to the company's primary Ruby on Rails based monolith app, microservices, and libraries (Ruby gems)
-* Developed a dynamic template based, CloudFormation backed "infrastructure as code" system prior to existence of Terraform, which was adopted later
-* Developed with AWS SDKs for all AWS cloud offerings used (VPC, CloudFormation, EC2, ECS, EKS, ELB and ALB, Lambda, AutoScaling, S3, ElastiCache, CloudFront, RDS, CloudWatch, IAM, SNS and SQS, etc.)
-* Lead the transition from scheduled, downtime based deployments to frequent rolling deployments
-* Designed and introduced a container based architecture (ECS, then EKS) to replace our classic EC2 instance based one
-* Created a CI/CD pipeline based on Ansible, Packer, Docker, and Ruby
-* Put together a self-paced training program covering web application development, testing, linting, containers, continuous integration and deployment, and Kubernetes
-* Introduced a variety of serverless applications in Go
+I joined San Diego startup MeLLmo to help them expand their previously on-prem only offerings to include multi-tenant SaaS cloud services. They used Ruby for everything, so I jumped between their DevOps and web development teams to help wherever I could.
+
+Once our cloud services were generally available, I moved on to leading the cloud team of about 14 engineers distributed between San Diego and Bangalore.
+
+We leveraged AWS SDKs to automate a wide variety of DevOps chores. We developed a template based infrastructure-as-code solution that predated similar offerings from CloudFormation and Terraform.
+
+We developed an image building pipeline based on Ansible, Packer, and Docker.
+
+After we were acquired by SAP, I interfaced with their Vancouver based office and ultimately transitioned to a new team in that office as a remote employee.
+
+I authored a suite of Go based AWS Lambda functions, and worked with SAP's Node.js based development framework.
+
+I put together a self-paced training program for all interested devs covering web application development, testing, linting, containers, continuous integration and deployment, and Kubernetes.
 
 <br />
 
-##### Sony Computer Entertainment America (SCEA) (PlayStation)   
+### Sony Computer Entertainment America (SCEA) (PlayStation)   
 **Senior Online Engineer**  
 June 2008 - March 2013  
 *Sorrento Valley, CA*  
-  
-* Worked on a small skunkworks team exploring AWS and OpenStack cloud solutions
-* Provided 1st and 3rd party PlayStation video game dev teams with server-side functionality such as leaderboards, profiles, chat, game servers, metrics, trophies, and ghost data
-* Made significant contributions to all aspects of our various Ruby based applications using Rails, Sinatra, Resque, Rake, and EventMachine
-* Shared responsibility for all cloud based architecture, provisioning, and deployments against public (AWS) and private (OpenStack) cloud environments and lead the development of Vagrant/VirtualBox based development environment virtualization
-* Utilized several AWS services to handle significant production traffic (10,000 concurrent requests a second)
-* Provisioned software with Chef, Vlad/rake-remote_task, and a series of custom Rake based deployment tools
-* Led efforts to introduce unit testing, client and server environment configuration standardization, and coding guidelines and best practices
-* Worked with local and remote game development teams to integrate our client SDK that made REST calls
-* Interfaced with producers, managers, game devs, QA staff, and NOC staff to usher titles from development to production
+ 
+At Sony I joined a tiny skunkworks team that pioneered the use of Ruby development and cloud services (AWS) to introduce dramatic new possibilities that differed from the company's previous on-prem Java based offerings. Our efforts were hugely successful, and Sony migrated to a mix of OpenStack and AWS cloud offerings based on our proven results.
+
+I did development work to provide 1st and 3rd party PlayStation video game dev teams with server-side functionality related to leaderboards, profiles, chat, game servers, metrics, trophies, and ghost data. I also helped them integrate a client SDK into their games.
+
+We designed and architected cloud topology that allowed systems to handle significant production traffic of 10,000 concurrent requests a second.
+
+I lead efforts to introduce unit testing, client and server environment configuration standardization, and coding guidelines and best practices.
+
+<br />
+<br />
+
+### Qualcomm
+**Senior Programmer Analyst**  
+June 2006 - May 2008  
+*Sorrento Valley, CA*  
+
+I was brought to Qualcomm to take over lead development duties on a massively customized Objective Perl based ticket tracking system. We used Ruby for small things and contributed to the company's Java code bases as well. From there I was selected to lead a Python based project tracking system.
 
 <br />
 
-<center>*(earlier work history available upon request)*</center>  
+### First American CREDCO
+**Systems Engineer**  
+June 1997 - June 2006  
+*Poway, CA*  
+
+At CREDCO I developed a suite of Perl and Ruby on Rails based web applications for internal developer use and conducted systems engineering efforts that saw me embedded with various teams to observe their processes and collaborate with them on options for increased efficiency and consistency.
+
+<br />
 
 ------
 
