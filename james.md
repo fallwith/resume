@@ -1,20 +1,18 @@
 ## James Bunch
 
-> ##### La Jolla, CA 92037  | [fallwith@gmail.com](fallwith@gmail.com)  | [github.com/fallwith/resume](https://github.com/fallwith/resume)
+##### La Jolla, CA 92037  | [fallwith@gmail.com](fallwith@gmail.com)  | [github.com/fallwith/resume](https://github.com/fallwith/resume)
 
 ### Objective
 
-Seeking a Ruby developer or DevOps role where I can leverage my expertise with Ruby, Rails, CI/CD, cloud development, automation, infrastructure-as-code, containers, and Kubernetes to optimize workflows, improve efficiency, and increase developer happiness.
-
-------
+Seeking a senior developer or lead role within an agile and impactful team. Brings an extensive 10+ year background involving a wide variety of successful projects and teams targeting both internal and external customers. Aims to deliver clean, well tested code, great cross-team communication and collaboration, and increased developer happiness.
 
 ### Skills
 
 #### Programming Development
 
-* Ruby programming since 2004, often without Rails
+* Ruby programming with and without Rails
 * Experienced with both server-side and client-side development (CLI, GUI, web apps, APIs, and SDKs)
-* Proficient with Python, Go, Rust, JavaScript, Java, and others
+* Proficient with Python, Go, Rust, TypeScript, JavaScript, Java, Lua, and many others
 
 #### DevOps and Systems Engineering
 
@@ -28,19 +26,15 @@ Seeking a Ruby developer or DevOps role where I can leverage my expertise with R
 #### Leadership and Collaboration:
 
 * Proven experience in team leadership, mentoring, and cross-functional collaboration
-* Strong interpersonal, communication, and documentation skills
-
-------
+* Exceptional interpersonal, verbal and written communication, and documentation skills
 
 ### Passions
 
-* Passionate about contributing to and championing the use of open source
-* View software development as a creative process
+* Passionate about contributing to and championing the adoption and use of open source
+* Views software development as a creative process
 * Open-minded collaboration for architecture design and optimization
 * Actively involved with developer mentoring and knowledge sharing through pairing, technical writing, and community engagement
 * Always eager to learn new technologies and explore new innovative approaches to solving complex problems
-
-------
 
 ### Experience
 
@@ -52,10 +46,10 @@ January 2022 - Present
 * Established a set of development best practices for the team, enhancing consistency and quality.
 * Engaged with the Ruby community over Discord, GitHub, and conferences to elicit feedback and anticipate needs to improve the agent's functionality.
 * Authored and maintained internal tools and images for CI/CD automation, data parsing, and application testing, leading to improved pipeline efficiency.
+* Delivered Ruby, Go, Python, and Node.js code to establish support for AWS Lambda customers.
 * Designed Kubernetes-based approaches to seamlessly integrate observability agents into customer CI/CD pipelines, to provide monitoring without manual installations.
 * Actively contributed to cross-team leadership and ideation, driving customer-focused improvements.
-
-<br />
+* Saved the team 6 months of reactive SLA bound efforts every year by reworking our practices to be more proactive with daily automated testing and notifications.
 
 **Salesforce (Trailhead.com) - Principal Member of Technical Staff**  
 January 2019 - December 2021  
@@ -68,7 +62,7 @@ January 2019 - December 2021
 * Drove discussions and ratifications across all engineering teams for development best practices involving collaboration, unit testing, PR reviews, Git usage, and documentation.
 * Drove collaboration between the DevOps, Quality Engineering, and Growth teams as a single shared technical lead focused on productivity and cooperation.
 
-**SAP (2016 onwards) / MeLLmo (2013-16) - Senior Ruby Developer**  
+**SAP (2016-19) / MeLLmo (2013-16) (acquired startup) - Senior Ruby Developer**  
 April 2013 - January 2019  
 *Cardiff-By-The-Sea, CA and then 100% Remote*  
 
@@ -91,23 +85,5 @@ June 2008 - March 2013
 * Designed and architected cloud topology that allowed systems to handle significant production traffic of 10,000 concurrent requests a second.
 * Led efforts to introduce unit testing, standardized environment configuration, and established coding guidelines and best practices for the server and client game dev teams to align on.
 
-**Qualcomm - Senior Programmer Analyst**  
-June 2006 - May 2008  
-*Sorrento Valley, CA*  
-
-* Led development of a highly customized Object Oriented Perl based ticket tracking system.
-* Introduced Ruby for smaller projects and contributed to larger Java based projects.
-* Selected to lead development efforts for a Python based project tracking system.
-
-**First American CREDCO - Systems Engineer**  
-June 1997 - June 2006  
-*Poway, CA*  
-
-* Developed a suite of Perl and Ruby on Rails web applications for internal developer use.
-* Worked closely with several engineering teams through systems engineering efforts to identify and implement process improvements to increase efficiency and consistency.
-
 ------
-
 James Bunch -- [fallwith@gmail.com](fallwith@gmail.com) -- La Jolla, CA 92037
-
-------
