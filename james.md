@@ -4,15 +4,16 @@
 
 ### Objective
 
-Seeking a senior developer or lead role within an agile and impactful team. Brings an extensive 10+ year background involving a wide variety of successful projects and teams targeting both internal and external customers. Aims to deliver clean, well tested code, great cross-team communication and collaboration, and increased developer happiness.
+To secure an impactful role within an agile team that will benefit from my technical leadership, innovative problem solving, and strong collaboration skills. To drive customer and developer happiness throughout the entirety of the software development lifecycle.
 
 ### Skills
 
-#### Programming Development
+#### Programming
 
 * Ruby programming with and without Rails
 * Experienced with both server-side and client-side development (CLI, GUI, web apps, APIs, and SDKs)
-* Proficient with Python, Go, Rust, TypeScript, JavaScript, Java, Lua, and many others
+* External full-stack development and internal tools and automation development
+* Proficient with Python, Go, Rust, TypeScript, JavaScript, Java, Lua, and others
 
 #### DevOps and Systems Engineering
 
@@ -86,4 +87,7 @@ June 2008 - March 2013
 * Led efforts to introduce unit testing, standardized environment configuration, and established coding guidelines and best practices for the server and client game dev teams to align on.
 
 ------
+
+_earlier technical work history available upon request_
+
 James Bunch -- [fallwith@gmail.com](fallwith@gmail.com) -- La Jolla, CA 92037
