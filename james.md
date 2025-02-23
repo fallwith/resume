@@ -39,8 +39,15 @@ To secure an impactful role within an agile team that will benefit from my techn
 
 ### Experience
 
+**brightwheel - Staff Software Engineer, Backend, Growth**  
+February 2025 - Present  
+*Remote*  
+
+* Lead growth related projects and handle backend development against a Rails monolith and satellite microservices.
+* Collaborate in a fully remote startup environment with PMs, leadership, and multi-disciplined engineers to drive growth and internal and external customer satisfaction.
+
 **New Relic - Lead Software Engineer**  
-January 2022 - Present  
+January 2022 - November 2024  
 *Remote*  
 
 * Lead the dev team responsible for New Relic's open source [Ruby APM agent](https://github.com/newrelic/newrelic-ruby-agent), providing observability and performance data on customer application (Rails, Sinatra, Grape, etc.).
@@ -81,13 +88,8 @@ June 2008 - March 2013
 *Sorrento Valley, CA*  
 
 * Served on a skunkworks team that pioneered the use of Ruby development and AWS cloud services to offer improved flexibility over existing on-prem enterprise Java based offerings.
-* Developed server-side offerings for 1st and 3rd party PlayStation video game dev teams to offer online functionality including leaderboards, profiles, chat, game servers, metrics, trophies, and ghost data.
-* Maintained and supported the incorporation of a client SDK into client-side game code.
 * Designed and architected cloud topology that allowed systems to handle significant production traffic of 10,000 concurrent requests a second.
-* Led efforts to introduce unit testing, standardized environment configuration, and established coding guidelines and best practices for the server and client game dev teams to align on.
 
 ------
-
-_earlier technical work history available upon request_
 
 James Bunch -- [fallwith@gmail.com](fallwith@gmail.com) -- La Jolla, CA 92037
